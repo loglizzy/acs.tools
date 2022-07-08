@@ -17,7 +17,7 @@ end
 
 -- GUI
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/loglizzy/Elerium-lib/main/lib.min.lua"))()
-local Window,WRender = Library:AddWindow("PARA DE ROUBAR MEUS SCRIPTS, feito por log#5212", {
+local Window,WRender = Library:AddWindow("Feito por log#5212", {
 	main_color = Color3.fromRGB(45, 45, 45),
 	min_size = Vector2.new(350, 600),
 	toggle_key = Enum.KeyCode.RightShift,
